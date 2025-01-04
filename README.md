@@ -32,19 +32,17 @@
 1. Клонируйте репозиторий на локальную машину:
 
 
-    git clone https://github.com/your_repo.git
-    cd your_repo
+    git clone https://github.com/Reus1509/wallet_system.git
+    cd wallet_system
 
 2. Установите зависимости:
+   
 
+   pip install -r requirements.txt
 
-    pip install -r requirements.txt
-
-3. Запустите приложение:
-
+4. Запустите приложение:
 
     uvicorn app.main:app
-
 
 ### Запуск в контейнере
 
