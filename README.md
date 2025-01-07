@@ -1,3 +1,4 @@
+## Улучшенная версия: https://github.com/Reus1509/wallet_system_v2.git
 ## Wallet Management System
 
 ### Описание
